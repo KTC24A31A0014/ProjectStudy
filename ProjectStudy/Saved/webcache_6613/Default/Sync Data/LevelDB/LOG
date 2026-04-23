@@ -1,2 +1,3 @@
-2026/04/23-16:51:49.034 5fc8 Creating DB C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/04/23-16:51:49.052 5fc8 Reusing MANIFEST C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/04/23-17:07:21.466 1ce8 Reusing MANIFEST C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/04/23-17:07:21.475 1ce8 Recovering log #3
+2026/04/23-17:07:21.476 1ce8 Reusing old log C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
