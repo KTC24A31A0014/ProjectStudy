@@ -1252,3 +1252,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.23-08.07.25:831][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6.411512, Update Interval: 335.320282
 [2026.04.23-08.07.25:905][ 10]LogPSOHitching: Encountered 200 PSO creation hitches so far (70 graphics, 130 compute). 0 of them were precached.
 [2026.04.23-08.09.15:498][791]LogDerivedDataCache: C:/Users/ktc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.23-08.13.01:616][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 342.214783
+[2026.04.23-08.13.02:617][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.23-08.13.02:617][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 342.881805, Update Interval: 318.710297
