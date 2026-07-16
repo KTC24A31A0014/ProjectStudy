@@ -1,10 +1,25 @@
-[5996:4384:0709/164535.045:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5996:13196:0709/164535.234:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[5996:4384:0709/164535.312:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5996:13196:0709/164538.182:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5996:13196:0709/164538.185:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5996:13196:0709/164538.186:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5996:13196:0709/164538.188:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5996:10484:0709/164538.893:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5996:10484:0709/164538.894:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21728:21732:0709/164539.535:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9D01A3CCAAAF764FDF45706F56BB247F will be ignored
+[6944:7952:0716/164427.528:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6944:21972:0716/164427.750:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6944:7952:0716/164427.828:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6944:21972:0716/164431.056:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6944:21972:0716/164431.060:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6944:21972:0716/164431.062:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6944:21972:0716/164431.065:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Desktop\削除\ProjectStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6944:21972:0716/164431.773:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6944:21972:0716/164431.774:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22820:22824:0716/164432.429:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ED659113E777A7BDB37B46FEAB323A84 will be ignored
+[6944:7952:0716/164432.736:WARNING:frame_host_impl.cc(623)] virtual CefFrameHostImpl::SendProcessMessage sent to detached frame 5-ED659113E777A7BDB37B46FEAB323A84 (main) will be ignored
+[3540:23068:0716/164432.737:ERROR:entry_impl.cc(1029)] No file for 80000014
+[3540:23068:0716/164432.752:ERROR:entry_impl.cc(1029)] No file for 80000015
+[3540:23068:0716/164432.754:ERROR:entry_impl.cc(1029)] No file for 80000018
+[3540:23068:0716/164432.754:ERROR:entry_impl.cc(1029)] No file for 8000001a
+[3540:23068:0716/164432.754:ERROR:entry_impl.cc(1029)] No file for 8000001b
+[3540:23068:0716/164432.755:ERROR:entry_impl.cc(1029)] No file for 80000017
+[3540:23068:0716/164432.756:ERROR:entry_impl.cc(1029)] No file for 80000019
+[3540:23068:0716/164432.757:ERROR:entry_impl.cc(1029)] No file for 80000016
+[3540:23068:0716/164432.758:ERROR:entry_impl.cc(1029)] No file for 8000001d
+[3540:23068:0716/164433.074:ERROR:entry_impl.cc(1029)] No file for 8000001c
+[3540:23068:0716/164433.074:ERROR:entry_impl.cc(1029)] No file for 8000001e
+[3540:23068:0716/164433.414:ERROR:entry_impl.cc(1029)] No file for 80000025
+[3540:23068:0716/164433.414:ERROR:entry_impl.cc(1029)] No file for 80000021
+[3540:23068:0716/164434.736:ERROR:entry_impl.cc(1029)] No file for 80000020
